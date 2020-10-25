@@ -1,7 +1,6 @@
 import discord
 from random import randint, choice
 from discord.ext import commands
-import datetime, pyowm
 from discord.utils import get 
 import youtube_dl
 import random
